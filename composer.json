@@ -14,7 +14,7 @@
 		"rtf"
 	],
 	"homepage" : "https://github.com/shiyingyu/docx-template-php",
-	"license" : "Apache License 2.0",
+	"license" : "Apache-2.0",
 	"authors" : [{
 			"name" : "Raghavendra K R",
 			"email" : "raghavendra@icircle.co.in",
