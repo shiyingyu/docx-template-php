@@ -1,5 +1,5 @@
 {
-	"name" : "shiyingyu/docxTemplateInPHP",
+	"name" : "shiyingyu/docx-template-php",
 	"description" : "Create Templates in MS Word docx format and use them Creating Business documents using PHP",
 	"type" : "library",
 	"keywords" : [
@@ -13,7 +13,7 @@
 		"merge list",
 		"rtf"
 	],
-	"homepage" : "https://github.com/Raaghu1987/docxTemplateInPHP",
+	"homepage" : "https://github.com/shiyingyu/docx-template-php",
 	"license" : "Apache License 2.0",
 	"authors" : [{
 			"name" : "Raghavendra K R",
