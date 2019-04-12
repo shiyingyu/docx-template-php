@@ -34,5 +34,12 @@
 			"icircle\\" : "src/",
 			"icircle\\tests\\" : "tests/"
 		}
-	}
+	},
+	"repositories": [
+        {
+		"packagist": false,
+		"type": "vcs",
+		"url": "https://github.com/shiyingyu/docx-template-php.git"           
+        }
+    ]    
 }
