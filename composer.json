@@ -1,5 +1,5 @@
 {
-	"name" : "Tangent/docxTemplateInPHP",
+	"name" : "shiyingyu/docxTemplateInPHP",
 	"description" : "Create Templates in MS Word docx format and use them Creating Business documents using PHP",
 	"type" : "library",
 	"keywords" : [
